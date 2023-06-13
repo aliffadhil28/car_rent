@@ -1,4 +1,4 @@
-## Technical Test Fullstwack Developer (Intern)
+## Technical Test Fullstack Developer (Intern)
 
 ### Email and Password
 
