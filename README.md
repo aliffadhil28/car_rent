@@ -9,8 +9,9 @@
 ### Requirement
 
 -   PHP 8.1.16
--   MySQL
+-   MySQL 8.0.30
 -   Composer 2.4.1
+-   Laravel 9
 
 ### How to install
 
